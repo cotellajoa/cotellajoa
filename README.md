@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joaquin</h1>
-## 💫 About Me:
+<h2>💫 About Me:</h2><br>
 🏛 Segundo año de Ingeniería en Sistemas<br>📔 Ahora mismo estoy aprendiendo Full stack developer con el stack MERN<br>
 
 
