@@ -1,20 +1,56 @@
-<h1 align="center">Hi 👋, I'm Joaquin</h1>
-<h2>💫 About Me:</h2><br>
-🏛 Segundo año de Ingeniería en Sistemas<br>📔 Ahora mismo estoy aprendiendo Full stack developer con el stack MERN<br>
+**¡Hola! Soy Joaquín - Estudiante avanzado de Computer Science**
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cotellajoa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-cotella-94582121b/)
-
-# 💻 Tech Stack:
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cotellajoa&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cotellajoa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cotellajoa&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cotellajoa&limit=5&theme=dark&combine_all_yearly_contributions=true )
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=<cotellajoa>&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/badge/🌎-Córdoba%2C%20Argentina-blue" alt="Location: Córdoba, Argentina" />
+  <img src="https://img.shields.io/badge/🔬-Becario%20de%20Investigación-blueviolet" alt="Research Fellow" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cotellajoa&icon=1&color=6)](https://visitcount.itsvg.in)
+
+## 🔭 Sobre mí
+
+- 🎓 **Estudiante avanzado** de Computer Science.
+- 🛰️ **Becario de Investigación** en procesamiento de imágenes satelitales.
+- 🧪 Utilizo **Ciencia de Datos** para identificar patrones y extraer información de imágenes de satélite.
+- 🤖 Apasionado por **Deep Learning** y **Machine Learning**.
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 📈 Mi Estadísticas en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<cotellajoa>&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<cotellajoa>&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Cómo Contactarme
+
+- ✉️ Correo: [cotellajoaquin@gmail.com](mailto:cotellajoaquin@gmail.com)
+- 🌐 LinkedIn: [Perfil de LinkedIn](www.linkedin.com/in/cotellajoaquin)
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=<cotellajoa>" alt="Visitor Badge" />
+</p>
+
+---
+
+> "La mejor manera de predecir el futuro es crearlo." – **Peter Drucker**
