@@ -1,7 +1,7 @@
 **¡Hola! Soy Joaquín - Estudiante avanzado de Computer Science**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<cotellajoa>&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=cotellajoa&color=blue" alt="Profile views" />
   <img src="https://img.shields.io/badge/🌎-Córdoba%2C%20Argentina-blue" alt="Location: Córdoba, Argentina" />
   <img src="https://img.shields.io/badge/🔬-Becario%20de%20Investigación-blueviolet" alt="Research Fellow" />
 </p>
