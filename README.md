@@ -12,13 +12,16 @@
 
 <p align="center">
   <a href="mailto:cotellajoaquin@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-jtella@proton.me-blue?style=for-the-badge&logo=protonmail&logoColor=white"/>
+    <img alt="Email" src="https://img.shields.io/badge/Email-cotellajoaquin@gmail.com-blue?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/cotellajoaquin">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Joaquin%20Cotella-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/cotellajoa">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Mi%20Perfil-lightgrey?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/cotellajoa">
+    <img alt="Vistas del Perfil" src="https://komarev.com/ghpvc/?username=TU-USUARIO-DE-GITHUB&label=VISITAS&style=for-the-badge&color=brightgreen"/>
   </a>
 </p>
 
