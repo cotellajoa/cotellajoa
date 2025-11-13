@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:jtella@proton.me">
+  <a href="mailto:cotellajoaquin@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-jtella@proton.me-blue?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/TU-PERFIL-DE-LINKEDIN">
+  <a href="https://www.linkedin.com/in/cotellajoaquin">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Joaquin%20Cotella-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/TU-USUARIO-DE-GITHUB">
+  <a href="https://github.com/cotellajoa">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Mi%20Perfil-lightgrey?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -98,8 +98,8 @@ Estas son algunas de las herramientas y tecnologías con las que trabajo:
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=tokyonight&rank_icon=github" alt="Estadísticas de GitHub" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-DE-GITHUB&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=cotellajoa&show_icons=true&theme=tokyonight&rank_icon=github" alt="Estadísticas de GitHub" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cotellajoa&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
